@@ -16,8 +16,10 @@
 <h3 align="left">That I am looking for?</h3>
 🤝 I am looking to collaborate with other developers and work as a team.
 <h3 align="left">Connect with me:</h3>
-- 📧 Email: <strong>ferreyra.ricardo@gmail.com</strong>
+📧 Email: <strong>ferreyra.ricardo@gmail.com</strong>
 <p align="left">
+
+<h3 align="left">Red Social: </h3>
 
 <a href="https://linkedin.com/in/ricardo-ferreyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo-ferreyra" height="30" width="40" /></a>
 <a href="https://instagram.com/glutinose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="glutinose" height="30" width="40" /></a>
