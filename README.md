@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glutix" alt="glutix" /></a> </p>
 
-<h3 align="left">What I do?</h3>
+<h3 align="left">What's I do?</h3>
 
 - 🔭 I’m currently working on [Facil Market](https://github.com/adharainfinita/facil-market-proyect)
 
@@ -19,7 +19,7 @@
 📧 Email: <strong>ferreyra.ricardo@gmail.com</strong>
 <p align="left">
 
-<h3 align="left">Red Social: </h3>
+<h3 align="left">social networks: </h3>
 
 <a href="https://linkedin.com/in/ricardo-ferreyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo-ferreyra" height="30" width="40" /></a>
 <a href="https://instagram.com/glutinose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="glutinose" height="30" width="40" /></a>
