@@ -2,8 +2,8 @@
 🔭 Estoy trabajando en creecer profesionalmente<br>
 🤝 Me gusta colaborar con desarroladores.<br>
 💻 Actualmente estoy aprendiendo Next.js<br>
-🌱 Me gustaria aprender Java y sus tecnologias relacionadas<br>.
-⚡ Me gusta los juegos, anime y la música.
+🌱 Me gustaria aprender Java y sus tecnologias relacionadas.<br>
+⚡ Me gusta los juegos, anime y la música.<br>
 
 
 ## 🌐 Redes Sociales:
