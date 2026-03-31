@@ -1,6 +1,6 @@
 # Hola, soy Ricardo Ferreyra 👋
 
-Desarrollador Full Stack en formación, con foco en el frontend y experiencia construyendo aplicaciones web reales en producción. Me interesa el desarrollo limpio, las buenas prácticas y seguir creciendo en equipo.
+Desarrollador Full Stack en formación con experiencia construyendo aplicaciones web reales. Me interesa el desarrollo end-to-end, las buenas prácticas y seguir creciendo en equipo.
 
 Actualmente cursando la **Tecnicatura Superior en Desarrollo de Software** y buscando mi primer puesto profesional como desarrollador.
 
@@ -8,20 +8,18 @@ Actualmente cursando la **Tecnicatura Superior en Desarrollo de Software** y bus
 
 ## 🚀 Sobre mí
 
-- 🏗️ Trabajé en proyectos reales en producción — desde un sistema de gestión de gimnasio hasta una plataforma académica institucional
-- 💼 Busco activamente mi primer puesto como desarrollador — ya sea frontend, full stack o posición júnior
+- 🏗️ Desarrollé un sistema de gestión para Iron Gym que están usando de manera real y funcional en el local
+- 💼 Busco activamente mi primer puesto — me interesa el desarrollo full stack, tanto frontend como backend
 - 📚 Actualmente aprendiendo **Next.js** y profundizando en arquitectura de software
-- 🌱 En mi lista de tecnologías para explorar: **C#** y su ecosistema
+- 🌱 En mi lista de tecnologías para explorar: **C#** y el ecosistema **.NET**
 - ⚡ Fuera del código: videojuegos, anime y música
 
 ---
 
-## 🌐 Redes
+## 🌐 Contacto
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23121212.svg?style=for-the-badge&logo=astro&logoColor=white)](https://glutix.github.io/porfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-ferreyra)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/glutinose)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Glutix_32)
 
 ---
 
@@ -64,8 +62,8 @@ Actualmente cursando la **Tecnicatura Superior en Desarrollo de Software** y bus
 
 ## 📌 Proyectos destacados
 
-### [GYM-System](https://github.com/Glutix) — *en producción*
-Sistema de gestión de gimnasio usado en Iron Gym. Gestión de socios, membresías con alertas de vencimiento y notificaciones automáticas vía WhatsApp.
+### GYM-System — *en uso real (repositorio privado)*
+Sistema de gestión para Iron Gym, en uso activo en el local. Gestión de socios, membresías con alertas de vencimiento y notificaciones automáticas vía WhatsApp. Desarrollado con Tauri para correr de forma local en el negocio.
 `Astro` `React` `Node.js` `SQLite` `Tauri`
 
 ### [SAM - Sistema Académico Mantovani](https://github.com/Glutix)
