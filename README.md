@@ -40,8 +40,6 @@ Actualmente cursando la **Tecnicatura Superior en Desarrollo de Software** y bus
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Base de datos
@@ -84,9 +82,9 @@ Marketplace de compra/venta con autenticación, búsquedas avanzadas y panel adm
 
 ---
 
-## 🏆 Trofeos
+## 🏆 Top contribuciones
 
-![](https://github-profile-trophy.vercel.app/?username=Glutix&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-contributor-stats.vercel.app/api?username=Glutix&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 
