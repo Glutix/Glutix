@@ -51,10 +51,6 @@ Actualmente cursando la **Tecnicatura Superior en Desarrollo de Software** y bus
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Herramientas
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
@@ -81,7 +77,7 @@ Actualmente cursando la **Tecnicatura Superior en Desarrollo de Software** y bus
 Sistema de gestión para Iron Gym, en uso activo en el local. Gestión de socios, membresías con alertas de vencimiento y notificaciones automáticas vía WhatsApp. Desarrollado con Tauri para correr de forma local en el negocio.
 `Astro` `React` `Node.js` `SQLite` `Tauri`
 
-### [SAM - Sistema Académico Mantovani](https://github.com/Glutix)
+### [SAM - Sistema Académico Mantovani](https://github.com/Glutix/SAM2)
 Plataforma de gestión académica con control de correlatividades, inscripciones y seguimiento por roles de usuario. Proyecto institucional real.
 `Next.js` `TypeScript` `Tailwind CSS` `PostgreSQL` `Express.js` `Prisma`
 
